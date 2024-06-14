@@ -25,5 +25,8 @@ Comando para adicionar alterações:
 ```
 git add .
 ```
-
+Comando para fazer um Commit:
+```
+git commit -m "nome-do-email"
+```
 
